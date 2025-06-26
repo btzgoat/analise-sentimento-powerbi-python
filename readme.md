@@ -1,4 +1,4 @@
-# Dashboard de Análise de Avaliacoes com Power BI e Python
+# Dashboard de Análise de Avaliações com Power BI e Python
 
 ## Descrição
 Este projeto realiza a análise de sentimento de avaliações de produtos de um e-commerce fictício. O objetivo é classificar os comentários dos clientes como Positivos, Neutros ou Negativos, combinando a análise de texto do Python com regras de negócio baseadas na nota da avaliação, e apresentar os insights em um dashboard interativo no Power BI.
