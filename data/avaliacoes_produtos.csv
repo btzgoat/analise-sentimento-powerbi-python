@@ -1,0 +1,8 @@
+ID_Produto,Nome_Produto,Data_Avaliacao,Rating,Texto_Avaliacao
+101,Smartphone X,2024-10-01,5,"Amei o celular! A bateria dura o dia todo e a câmera é incrível."
+102,Fone de Ouvido Y,2024-10-01,2,"O som é muito baixo e o material parece frágil. Decepcionado."
+101,Smartphone X,2024-10-02,4,"É um bom aparelho, rápido e com design bonito. Recomendo."
+103,Smartwatch Z,2024-10-02,3,"O relógio é funcional, mas a tela poderia ter mais brilho."
+102,Fone de Ouvido Y,2024-10-03,5,"Melhor fone que já tive! Qualidade de som espetacular e muito confortável."
+101,Smartphone X,2024-10-04,1,"Péssima experiência. O celular travou no segundo dia de uso. Não comprem."
+103,Smartwatch Z,2024-10-05,4,"Gostei bastante, a integração com o celular funciona perfeitamente."
